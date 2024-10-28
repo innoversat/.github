@@ -1,3 +1,7 @@
-<img src="./logo.png" alt="Innoversat" height="30" width="auto">
+<p align="center">
+    <img src="./logo.png" alt="Innoversat" height="20" width="auto">
+</p>
 
-<h3>İnovatif teknoloji, versatil çözümler.</h3>
+<hr />
+
+<p>İnovatif teknoloji, versatil çözümler.</p>
