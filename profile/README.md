@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="./logo.png" alt="Innoversat" height="40" width="auto">
+    <img src="./banner.png" alt="Innoversat" height="200" width="auto">
 </p>
